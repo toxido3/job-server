@@ -1,0 +1,9 @@
+{
+  "jobs": [
+      {"id": 1, "title": "UX Developer", "details": "lorem"},
+      {"id": 2, "title": "Web Developer", "details": "lorem"},
+      {"id": 3, "title": "Vue Developer", "details": "lorem"},
+      {"id": 4, "title": "Backend Developer", "details": "lorem"},
+      {"id": 5, "title": "Data Scientist", "details": "lorem"}
+  ]
+}
